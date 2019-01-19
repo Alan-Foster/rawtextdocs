@@ -1,0 +1,88 @@
+<h1>The Jungle Book</h1>
+    
+    <b>Bold</b> 
+    <i>Italics</i> 
+    <u>Underline</u> 
+    <s>Strikethrough</s> 
+    <sup>Superscript</sup> 
+    <sub>Subscript</sub> 
+    <size=48>Point size 48</size> 
+    <size=+18>Point size increased by 18</size> 
+    <size=-18>Point size decreased by 18</size> 
+    <pos=5.5>Characters positioned about 5.5 characters from left side. 
+    <color=yellow>Yellow text</color> <#00ff00>Green text</color> 
+    <color=red>Yellow text</color> <#FF8000>Green text</color> 
+
+    <color=red> to set the color to red. Several other colors are pre-defined.
+      <#FF8000> or any other hexadecimal code to define a color.
+    </color> to end the color tag.
+    Simple <color=yellow>example</color> of text created with <#80ff80>TextMesh <#8080ff>Pro</color>!
+
+<p>
+
+         
+         <sprite=0>
+	     The Jungle Book is a 2016 American fantasy adventure film directed and co-produced by Jon Favreau,
+         written by Justin Marks and produced by Walt Disney Pictures. Based on Rudyard Kipling's eponymous 
+         <sprite=1> 
+         collective works and borrowing elements from Walt Disney's 1967 animated film of the same name,
+         The Jungle Book is a live-action/CGI film that tells the story of Mowgli, an orphaned human boy who,
+         guided by his animal guardians, sets out on a journey of self-discovery while evading the threatening Shere Khan. 
+         <sprite=2>  
+         The film introduces Neel Sethi as Mowgli and also features the voices of Bill Murray,
+         Ben Kingsley, Idris Elba, Lupita Nyong'o, Scarlett Johansson, Giancarlo Esposito, and Christopher Walken
+    
+
+</p>
+
+<p>
+	Favreau, Marks and producer Brigham Taylor developed the film's story as a balance between Disney's animated adaptation and Kipling's original works, adapting elements from both into the film. Principal photography commenced in 2014,[citation needed] with filming taking place entirely in Los Angeles. 
+    The film required extensive use of computer-generated imagery to portray the animals and settings.
+</p>
+
+<p>
+	Mowgli is a "man cub" raised by the Indian wolf Raksha and her pack, led by Akela, in a jungle of India, ever since he was brought to them as a baby by the black panther Bagheera. Bagheera trains Mowgli to learn the ways of the wolves, but the boy faces certain challenges and falls behind his wolf siblings, and Akela disapproves of him using human tricks like building tools instead of learning the ways of the pack.
+    One day, during the dry season, the jungle animals gather to drink the water that remains as 
+    part of a truce during a drought that enables the jungle's wildlife to drink without fear
+     of being eaten by their predators. The truce is disrupted, however, when a scarred tiger,
+     Shere Khan, arrives, detecting Mowgli's scent in the large crowd. Resentful against man for 
+    scarring him, he issues a warning that he will kill Mowgli at the end of the drought. As the 
+    wolves debate whether they should keep Mowgli or not, Mowgli decides to leave the jungle 
+     the safety of his pack.Bagheera agrees with the decision and volunteers to guide him to the nearby man village.
+</p>
+
+<p>
+	En route, Shere Khan ambushes them and injures Bagheera, but Mowgli manages to escape. Later, 
+    Mowgli meets an enormous python named Kaa who hypnotizes him. While under her influence,
+     Mowgli sees a vision of his father being mauled while protecting him from Shere Khan.
+</p>
+<p>
+	Whenever the squat little gnomish man would happen upon Decumus Scotti in
+	the offices, Lord Vanech would always say, "You're a credit to the
+	Commission. Keep up the good work."
+</p>
+
+<p>
+	Bagheera eventually finds Mowgli and Baloo and is angered that Mowgli has not joined the humans as agreed, but Baloo calms him down and persuades both of them to sleep on it. During the night, Mowgli finds a herd of elephants gathered around a ditch and uses his vines to save a baby elephant from the ditch. Although Baloo and Bagheera are both impressed, Baloo realizes that he cannot guarantee Mowgli's safety after learning that he is being 
+    hunted by Shere Khan. Baloo agrees to push Mowgli away to get him to continue onward to the man village.
+</p>
+
+<p>
+	Mowgli is kidnapped by the "Bandar-log" (monkeys) who present him to their leader, 
+    a giant ape named King Louie. Assuming that all humans can make fire, King Louie offers 
+    Mowgli protection from Shere Khan in exchange for it. Baloo distracts Louie while Bagheera 
+    tries to sneak him out, but their plan is discovered. As Louie chases Mowgli through his temple, 
+    he informs Mowgli of Akela's death. Louie's rampage eventually causes his temple to collapse on top of him. Furious that Baloo 
+    and Bagheera never told him about Akela's death, Mowgli goes to confront Shere Khan alone.
+</p>
+
+<p>
+	Mowgli steals a lit torch at the village to use as a weapon and heads back to the jungle, accidentally starting a wildfire in the process. He confronts Shere Khan, who argues that Mowgli has made himself the enemy of the jungle by causing the wildfire. Mowgli throws the torch into the water, giving Shere Khan the advantage. Baloo, Bagheera, and the wolf pack intervene and hold Shere Khan off, giving Mowgli enough time to set a trap. He lures Shere Khan up a dead tree and onto a branch, which breaks under the tiger's weight, and Shere Khan falls into the inferno. 
+    Mowgli then directs the elephants to divert the river and put out the fire.
+</p>
+
+<p>
+	In the aftermath, Raksha becomes the new leader of the wolf pack. 
+    Mowgli decides to utilize his equipment and tricks for his own use,
+     having found his true home and calling with his wolf family, Baloo, and Bagheera.
+</p>

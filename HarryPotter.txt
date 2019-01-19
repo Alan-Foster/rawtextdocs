@@ -1,0 +1,187 @@
+<h1>The Harry Potter Story</h1>
+
+    <b>Bold</b> 
+    <i>Italics</i> 
+    <u>Underline</u> 
+    <s>Strikethrough</s> 
+    <sup>Superscript</sup> 
+    <sub>Subscript</sub> 
+    <size=48>Point size 48</size> 
+    <size=+18>Point size increased by 18</size> 
+    <size=-18>Point size decreased by 18</size> 
+    <pos=5.5>Characters positioned about 5.5 characters from left side. 
+    <color=yellow>Yellow text</color> <#00ff00>Green text</color> 
+    <color=red>Yellow text</color> <#FF8000>Green text</color> 
+
+    Use <size=36> to set point size to 36. </size> 
+    <size=+18> to increase the point size by 18 points. </size> 
+    <size=-14> to decrease the point size by 14 points.
+    </size> to end the size tag.
+    Color	
+    <color=red> to set the color to red. Several other colors are pre-defined.
+      <#FF8000> or any other hexadecimal code to define a color.
+    </color> to end the color tag.
+  Simple <color=yellow>example</color> of text created with <#80ff80>TextMesh <#8080ff>Pro</color>!
+
+
+<p>
+	Harry Potter is a series of fantasy novels written by British author J. K. Rowling. 
+    The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, 
+    all of whom are students at Hogwarts School of Witchcraft and Wizardry . 
+    The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become 
+    immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and Muggles. <sprite=0><sprite=1><sprite=2>
+	Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have 
+        found immense popularity, critical acclaim and commercial success worldwide. They have attracted a wide 
+        adult audience as well as younger readers, and are often considered cornerstones of modern young adult literature.[3] 
+        The series has also had its share of criticism, including concern about the increasingly dark tone as 
+        the series progressed, as well as the often gruesome and graphic violence it depicts. As of July 2013, 
+        the books have sold more than 450 million copies worldwide, making them the best-selling book series in history, 
+        and have been translated into seventy-three languages.[4][5] The last four books consecutively set records as t
+        he fastest-selling books in history, with the final instalment 
+        selling roughly eleven million copies in the United States within twenty-four hours of its release.
+</p>
+
+<p>
+	The series was originally published in English by two major publishers, Bloomsbury in 
+    the United Kingdom and Scholastic Press in the United States. A play, Harry Potter and the Cursed Child, 
+    based on a story by Rowling, premiered in London on 30 July 2016 at the Palace Theatre, 
+    and its script was published by Little, Brown as the eighth book in the series
+</p>
+<p>
+	A series of many genres, including fantasy, drama, coming of age and the British school story (which includes elements of mystery, thriller, adventure, horror and romance), the world of Harry Potter explores numerous themes and includes many cultural meanings and references.[8] According to Rowling, the main theme is death.[9] Other major themes in the series include prejudice, corruption, and madness.[10]
+
+The success of the books and films has ensured that the Harry Potter franchise continues to expand,
+     with numerous derivative works, a travelling exhibition that premiered in Chicago in 2009, a studio tour in London that opened in 2012, a digital platform on which J.K. Rowling updates the series with new information and insight, and a trilogy of spin-off films premiering in November 2016, among many other developments. Most recently, themed attractions, collectively known as The Wizarding World of Harry Potter,
+     have been built at several Universal Parks & Resorts amusement parks around the world.
+</p>
+<p>
+	When the first novel of the series, Harry Potter and the Philosopher's Stone 
+    (published in America and other countries as Harry Potter and the Sorcerer's Stone,) opens, it is apparent that some significant event has taken place in the wizarding world – an event so very remarkable, even the muggles (non-magical people) notice signs of it. The full background to this event and Harry Potter's past is revealed gradually through the series. After the introductory chapter, the book leaps forward to a time shortly before Harry Potter's 
+    eleventh birthday, and it is at this point that his magical background begins to be revealed.
+</p>
+<p>
+	Harry's first contact with the wizarding world is through a half-giant, Rubeus Hagrid, keeper of grounds and keys at Hogwarts. Hagrid reveals some of Harry's history.[17] Harry learns that, as a baby, he witnessed his parents' murder by the power-obsessed dark wizard Lord Voldemort, 
+    who subsequently attempted to kill him as well.[17] 
+</p>
+<p>
+	As its inadvertent saviour from Voldemort's reign of terror, Harry has become a living legend in the wizarding world. However, at the orders of the venerable and well-known wizard Albus Dumbledore, the orphaned Harry had been placed in the home of his unpleasant Muggle relatives, the Dursleys, who kept him safe but treated him poorly, having him live in a cupboard and do chores while doting on their spoiled son, Dudley. Petunia Dursley was jealous of her sister's magical abilities as a child,
+     and later came to believe that all wizards were freaks
+</p>
+<p>
+	There was, on the other hand, the future to consider. He was not a young
+	man, and though he was receiving a respectable salary for someone not doing
+	actual work, Scotti considered that soon he might have to retire and not get
+	paid for not doing work. It would be nice, he decided, if Lord Vanech, out
+	of gratitude for the millions of gold the Valenwood contract was generating,
+	might deign to make Scotti a partner. Or at least give him a small
+	percentage of the bounty.
+</p>
+<p>
+	Decumus Scotti was no good at asking for things like that, which was one of
+	the reasons why, previous to his signal successes in Valenwood as a senior
+	clerk for Lord Atrius, he was a lousy agent. He had just about made up his
+	mind to say something to Lord Vanech, when his lordship unexpectedly pushed
+	things along.
+</p>
+<p>
+	"You're a credit to the Commission," the waddling little thing said, and
+	then paused. "Do you have a moment free on your schedule?"
+</p>
+<p>
+	Scotti nodded eagerly, and followed his lordship to his hideously decorated
+	and very enviable hectare of office space.
+</p>
+<p>
+	"Zenithar blesses us for your presence at the Commission," the little fellow
+	squeaked grandly. "I don't know whether you know this, but we were having a
+	bad time before you came along. We had impressive projects, for certain, but
+	they were not successful. In Black Marsh, for example, for years we've been
+	trying to improve the roads and other routes of travel for commerce. I put
+	my best man, Flesus Tijjo, on it, but every year, despite staggering
+	investments of time and money, the trade along those routes only gets slower
+	and slower. Now, we have your very clean, very, very profitable Valenwood
+	contract to boost the Commission's profits. I think it's time you were
+	rewarded."
+</p>
+<p>
+	Scotti grinned a grin of great modesty and subtle avarice.
+</p>
+<p>
+	"I want you to take over the Black Marsh account from Flesus Tijjo."
+</p>
+<p>
+	Scotti shook as if awaking from a pleasant dream to hideous reality, "My
+	Lord, I - I couldn't -"
+</p>
+<p>
+	"Nonsense," chirped Lord Vanech. "Don't worry about Tijjo. He will be happy
+	to retire on the money I give him, particularly as soul-wrenchingly
+	difficult as this Black Marsh business has been. Just your sort of a
+	challenge, my dear Decumus."
+</p>
+<p>
+	Scotti couldn't utter a sound, though his mouth feebly formed the word "No"
+	as Lord Vanech brought out the box of documentation on Black Marsh.
+</p>
+<p>
+	"You're a fast reader," Lord Vanech guessed. "You can read it all en route."
+</p>
+<p>
+	"En route to ..."
+</p>
+<p>
+	"Black Marsh, of course," the tiny fellow giggled. "You are a funny chap.
+	Where else would you go to learn about the work that's being done, and how
+	to improve it?"
+</p>
+<p>
+	The next morning, the stack of documentation hardly touched, Decumus Scotti
+	began the journey south-east to Black Marsh. Lord Vanech had hired an
+	able-bodied guard, a rather taciturn Redguard named Mailic, to protect his
+	best agent. They rode south along the Niben, and then south-east along the
+	Silverfish, continuing on into the wilds of Cyrodiil, where the river
+	tributaries had no names and the very vegetation seemed to come from another
+	world than the nice, civilized gardens of the northern Imperial Province.
+</p>
+<p>
+	Scotti's horse was tied to Mailic's, so the clerk was able to read. It made
+	it difficult to pay attention to the path they were taking, but Scotti knew
+	he needed at least a cursory familiarity with the Commission's business
+	dealings in Black Marsh.
+</p>
+<p>
+	It was a huge box of paperwork going back forty years, when the Commission
+	had first been given several million in gold by a wealthy trader, Lord
+	Xellicles Pinos-Revina, to improve the condition of the road from Gideon to
+	Cyrodiil. At that time, it took three weeks, a preposterously long time, for
+	the rice and root he was importing to arrive, half-rotten, in the Imperial
+	Province. Pinos-Revina was long dead, but many other investors over the
+	decades, including Pelagius Septim V himself, had hired the Commission to
+	build roads, drain swamps, construct bridges, devise anti-smuggling systems,
+	hire mercenaries, and, in short, do everything that the greatest Empire in
+	history knew would work to aid trade with Black Marsh. According to the
+	latest figures, the result of this was that it took two and a half months
+	for goods, now thoroughly rotten, to arrive.
+</p>
+<p>
+	Scotti found that when he looked up after concentrating on what he was
+	reading, the landscape had always changed. Always dramatically. Always for
+	the worse.
+</p>
+<p>
+	"This is Blackwood, sir," said Mailic to Scotti's unspoken question. It was
+	dark and woodsy, so Decumus Scotti thought that a very appropriate name.
+</p>
+<p>
+	The question he longed to ask, which in due course he did ask, was, "What's
+	that terrible smell?"
+</p>
+<p>
+	"Slough Point, sir," Mailic replied as they turned the next bend, where the
+	umbrageous tunnel of tangled tree and vine opened to a clearing. There
+	squatted a cluster of formal buildings in the dreary Imperial design favored
+	by Lord Vanech's Commission and every Emperor since Tiber, together with a
+	stench so eye-blindingly, stomach-wrenchingly awful that Scotti wondered,
+	suddenly, if it were deadly poisonous. The swarms of blood-colored,
+	sand-grain-sized insects obscuring the air did not improve the view.
+</p>
